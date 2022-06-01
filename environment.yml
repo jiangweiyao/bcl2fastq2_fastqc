@@ -1,0 +1,28 @@
+name: bcl2fastq2
+channels:
+  - bih-cubi
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - bcl2fastq2=2.20.0.422
+  - expat=2.4.8
+  - fastqc=0.11.9
+  - font-ttf-dejavu-sans-mono=2.37
+  - fontconfig=2.14.0
+  - freetype=2.10.4
+  - illumina-interop=1.1.23
+  - libgcc=7.2.0
+  - libgcc-ng=12.1.0
+  - libgomp=12.1.0
+  - libnsl=2.0.0
+  - libpng=1.6.37
+  - libstdcxx-ng=12.1.0
+  - libuuid=2.32.1
+  - libzlib=1.2.12
+  - openjdk=8.0.312
+  - perl=5.32.1
+  - zlib=1.2.12
+prefix: /home/jyao/miniconda3/envs/bcl2fastq2
